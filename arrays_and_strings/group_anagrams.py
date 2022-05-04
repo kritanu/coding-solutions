@@ -12,4 +12,6 @@ class Solution:
             
         return hashmap.values()
                 
-        #Complexity O(n * m)
+        #Complexity hashmap O(m * n)
+        #Sort O(m * nlogn)
+        #Brute force O(m * n * n)
