@@ -9,5 +9,5 @@ class Solution:
         return rob_max
             
         
-        #Complexity O(2n) = O(n), space O(1)
+        #Complexity O(n), space O(1)
         #brute O(n^2)
